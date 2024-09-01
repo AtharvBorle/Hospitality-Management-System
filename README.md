@@ -75,4 +75,4 @@ For any inquiries, you can reach me at:
 
 ---
 
-**Note**: Replace placeholders like `yourusername` and `your-email@example.com` with your actual GitHub username and email address before publishing the `README.md`.
+**Note**: Replace placeholders like `yourusername` and `password` with your actual username and password.
